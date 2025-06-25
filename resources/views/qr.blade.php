@@ -72,7 +72,7 @@
             <p>No QR code to display.</p>
         @endisset
 
-        <a href="/qr-form" class="back-link">🔙 Back to Form</a>
+        <a href="/qr-form" class="back-link">🔙 Back to previous Form</a>
     </div>
 </body>
 </html>
